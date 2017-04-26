@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BigImageView">
+        <attr name="srcImage" format="string" />
+        <attr name="destHei" format="dimension" />
+        <attr name="destWid" format="dimension" />
+
+    </declare-styleable>
+</resources>
